@@ -1,0 +1,5 @@
+# HW1 data file (large CSV; not tracked in git)
+hw1/src/bicycle_data.csv
+
+# macOS
+.DS_Store
